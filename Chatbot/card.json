@@ -5,7 +5,7 @@
     "description": "Card",
     "newInstancePrefix": "card",
     "vendor": "Ferry Djaja",
-    "icon": "https://sap-samples.github.io/analytics-cloud-custom-widget/Custom-Widget-Samples/Chatbot/bot.png",
+    "icon": "https://marou-fer.github.io/Chatbot/bot.png",
     "eula": "",
     "license": "",
     "imports": [ "input-controls" ],
@@ -13,7 +13,7 @@
       {
         "kind": "main",
         "tag": "com-fd-djaja-sap-sac-card",
-        "url": "https://sap-samples.github.io/analytics-cloud-custom-widget/Custom-Widget-Samples/Chatbot/chatbot.js",
+        "url": "https://marou-fer.github.io/Chatbot/card.js",
         "integrity": "",
         "ignoreIntegrity": true
       }
